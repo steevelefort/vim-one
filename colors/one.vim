@@ -298,12 +298,12 @@ if has('gui_running') || has('termguicolors') || &t_Co == 88 || &t_Co == 256
     let s:mono_4 = ['#555555', '255']
 
     let s:hue_1  = ['#56d6f2', '255'] " cyan
-    let s:hue_2  = ['#51afff', '255'] " blue
-    let s:hue_3  = ['#c668ff', '255'] " purple
+    let s:hue_2  = ['#41bfff', '255'] " blue
+    let s:hue_3  = ['#a698ff', '255'] " purple
     let s:hue_4  = ['#98f379', '255'] " green
 
-    let s:hue_5   = ['#ff6c75', '255'] " red 1
-    let s:hue_5_2 = ['#fe5046', '255'] " red 2
+    let s:hue_5   = ['#ff5c65', '255'] " red 1
+    let s:hue_5_2 = ['#ff4046', '255'] " red 2
 
     let s:hue_6   = ['#f19a66', '255'] " orange 1
     let s:hue_6_2 = ['#f5c07b', '255'] " orange 2
